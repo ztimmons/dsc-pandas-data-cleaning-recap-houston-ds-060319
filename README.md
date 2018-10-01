@@ -1,5 +1,5 @@
 
-# Section Recap - Summary
+# Section Recap
 
 ## Introduction
 
